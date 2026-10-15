@@ -1,0 +1,2 @@
+- 2026-10-12 | hook: Origin Story | "A few years ago I was answering customer calls. Now I'm studying how to defend networks." | id: urn:li:share:7515368401167486977 | https://www.linkedin.com/feed/update/urn:li:share:7515368401167486977/
+- 2026-10-15 | hook: Time Anchor | "Last weekend I let an AI agent clean my inbox. It moved 215 old emails to the trash in one session." | id: urn:li:share:7516370004032856064 | https://www.linkedin.com/feed/update/urn:li:share:7516370004032856064/
