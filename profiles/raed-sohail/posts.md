@@ -66,7 +66,7 @@ What's one boring task you'd trust an AI with, and one you never would?
 #ArtificialIntelligence #CyberSecurity #Automation
 ```
 
-## Post 3: Call center lesson (draft, not published)
+## Post 3: Call center lesson (published 2026-10-20, hook: Confession)
 
 ```
 I learned social engineering before I knew the word for it.
