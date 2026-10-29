@@ -1,0 +1,17 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      APP_NAME: ${{ vars.APP_NAME }}
+      API_KEY: ${{ secrets.API_KEY }}
+    steps:
+      - name: Run app
+        run: |
+          echo "Using $APP_NAME"
+          echo "API key is present"
