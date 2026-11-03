@@ -1,3 +1,4 @@
 - 2026-10-12 | hook: Origin Story | "A few years ago I was answering customer calls. Now I'm studying how to defend networks." | id: urn:li:share:7515368401167486977 | https://www.linkedin.com/feed/update/urn:li:share:7515368401167486977/
 - 2026-10-15 | hook: Time Anchor | "Last weekend I let an AI agent clean my inbox. It moved 215 old emails to the trash in one session." | id: urn:li:share:7516370004032856064 | https://www.linkedin.com/feed/update/urn:li:share:7516370004032856064/
 - 2026-10-20 | hook: Confession | "I learned social engineering before I knew the word for it." | id: urn:li:share:7518301978871934976 | https://www.linkedin.com/feed/update/urn:li:share:7518301978871934976/
+- 2026-11-03 | hook: Personal audit | "Last week I read every security email in my inbox. Not the ads. The boring ones." | id: urn:li:share:7523434933319516160 | https://www.linkedin.com/feed/update/urn:li:share:7523434933319516160/

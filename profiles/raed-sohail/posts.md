@@ -88,6 +88,34 @@ If you work in security, what's the most convincing scam attempt you've seen?
 #CyberSecurity #SocialEngineering #Bahrain
 ```
 
+## Post 4: Security inbox habit (published 2026-11-03, hook: Personal audit)
+
+```
+Last week I read every security email in my inbox. Not the ads. The boring ones.
+
+Here is what I found in just 7 days:
+
+A phone number was removed from one of my social media accounts.
+An app I didn't remember got access to my GitHub.
+Several login codes arrived in one week.
+
+Some of it was me. Some of it I had to check.
+
+As a cybersecurity student, this surprised me. Every app already sends you a warning when something changes. We just treat those emails like spam.
+
+So I made a simple habit:
+
+1. Read every "new sign-in" or "password changed" email the same day.
+2. If you don't recognise it, change the password and log out other devices.
+3. Turn on two-step verification for every account that offers it.
+
+It takes 5 minutes a day. Fixing a hacked account takes weeks.
+
+When did you last check which devices are logged in to your accounts?
+
+#CyberSecurity #InfoSec #Bahrain
+```
+
 ## Connection note
 
 ```
