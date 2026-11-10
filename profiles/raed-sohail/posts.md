@@ -116,6 +116,28 @@ When did you last check which devices are logged in to your accounts?
 #CyberSecurity #InfoSec #Bahrain
 ```
 
+## Post 5: Connected apps check (approved 2026-11-10, scheduled 2026-11-11 8:30 am, hook: Time Anchor)
+
+```
+Yesterday Google sent me 3 security alerts in 4 minutes.
+
+All of them said the same thing: "You allowed OpenAI access to some of your Google Account data."
+
+It was me. I was signing in to an AI tool with my Google account.
+
+But it made me stop and check. How many apps have I given access to over the years with one tap on "Sign in with Google"?
+
+So I opened my Google account and looked at the list of connected apps. Some I use every day. Some I forgot existed.
+
+As a cybersecurity student, this is the lesson I keep relearning. Every AI tool you connect gets a key to part of your life. That's fine, as long as you know which doors it opens and you take the key back when you stop using it.
+
+It takes 2 minutes: Google Account, Security, Your connections to third-party apps.
+
+When did you last check which apps can see your Google or Microsoft account?
+
+#CyberSecurity #ArtificialIntelligence #Bahrain
+```
+
 ## Connection note
 
 ```
