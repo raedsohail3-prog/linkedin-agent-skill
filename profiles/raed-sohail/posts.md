@@ -116,7 +116,7 @@ When did you last check which devices are logged in to your accounts?
 #CyberSecurity #InfoSec #Bahrain
 ```
 
-## Post 5: Connected apps check (approved 2026-11-10, scheduled 2026-11-11 8:30 am, hook: Time Anchor)
+## Post 5: Connected apps check (published 2026-11-11, hook: Time Anchor)
 
 ```
 Yesterday Google sent me 3 security alerts in 4 minutes.
